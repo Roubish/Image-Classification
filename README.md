@@ -15,7 +15,7 @@ Let us load the image we want to classify using this model.
 ## Predicting the Class using Pre-Trained model
 
 Now that we have loaded the image and the pre-trained network, we shall preprocess the image, feed it to the neural network to predict the class of the image.
-####Note::
+#### Note::
 
 - image.img_to_array : Converts a PIL Image instance to a Numpy array.
 
